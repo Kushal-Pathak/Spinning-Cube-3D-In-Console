@@ -22,7 +22,7 @@ struct Cube
 
 char matrix[height][width];
 
-void maximizeWindow();                                 // mazimizes console window
+void maximizeWindow();                                 // maximizes console window
 void init();                                           // initializes matrix with whitespace character
 void display();                                        // displays matrix content in the console window
 void putpixel(int, int);                               // puts a pixel in the matrix
